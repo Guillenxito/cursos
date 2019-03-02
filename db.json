@@ -1,0 +1,31 @@
+"localizaciones":[
+  {
+    "Nombre": "Madrid",
+    "País": "España",
+    "id": "ES-28-001"
+  },
+  {
+    "Nombre": "Londres",
+    "País": "Gran Bretaña",
+    "id": "GB-25-001"
+  },
+  {
+    "Nombre": "París",
+    "País": "Francia",
+    "id": "FR-28-001"
+  },
+  {
+    "Nombre": "Toledo",
+    "País": "España",
+    "id": "ES-45-001"
+  },
+  {
+    "Nombre": "Valencia",
+    "País": "España",
+    "id": "ES-46-001"
+  },
+  {
+    "Nombre": "Toledo",
+    "País": "Estados Unidos",
+    "id": "EU-55-008"
+  }]
