@@ -1,5 +1,5 @@
 {
- "datos_json" = [
+ "datos_json" : [
   {
     "id": "ES-28-001", "temps" : [
       {"fecha" : "2019-03-06", "temp_min": 1.6, "temp_max": 13.5, "cielo": "Soleado"},
