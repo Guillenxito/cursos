@@ -49,5 +49,6 @@
       {"fecha" : "2019-03-07", "temp_min": 3.9, "temp_max": 9.8, "cielo": "Tormentas"}
     ]
   }              
-]
+],
+ 'ciudades_csv':"Nombre;País;id\n;;\nMadrid; España; ES-28-001\Londres; Gran Bretaña; GB-25-001\nParís;Francia;FR-28-001\nToledo;España;ES-45-001\nValencia;España;ES-46-001\nToledo;Estados Unidos;EU-55-008\n;Estados Unidos;EU-55-008\nT;EstadosUnidos;EU-55-008\nToledo;eSTADOS;EU-55-008",
 }
